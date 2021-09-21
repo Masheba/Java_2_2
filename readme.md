@@ -1,0 +1,1 @@
+задание 2.2 по Java. Testability 
